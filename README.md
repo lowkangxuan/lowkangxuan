@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kang Xuan 👨‍💻 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lowkangxuan.lowkangxuan)
 
 <!--
 **lowkangxuan/lowkangxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
